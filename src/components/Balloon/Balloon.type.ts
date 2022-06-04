@@ -1,0 +1,3 @@
+interface Balloon {
+  text: string;
+}
